@@ -24,13 +24,17 @@
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     },
     {
-        "name": "C++",
-        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+        "name": "C#",
+        "icon": "https://img.icons8.com/?size=100&id=45490&format=png&color=000000"
     },
 
     {
-        "name": "Visual Studio Code",
-        "icon": "https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000"
+        "name": "Unity",
+        "icon": "https://img.icons8.com/?size=100&id=39848&format=png&color=000000"
+    },
+    {
+        "name": "Machine Learning",
+        "icon": "https://img.icons8.com/?size=100&id=eoxMN35Z6JKg&format=png&color=000000"
     },
     {
         "name": "GitHub",
